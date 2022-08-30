@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FacebookSDKShare</string>
+
+    <string name="app_title">Facebook SDK シェアサンプル</string>
+    <string name="share_button_text">シェア</string>
+
+    <string name="facebook_app_id">YOUR_APP_ID</string>
+    <string name="facebook_client_token">YOUR_CLIENT_TOKEN</string>
+</resources>
