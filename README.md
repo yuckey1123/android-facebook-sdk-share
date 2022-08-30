@@ -8,13 +8,13 @@ Facebook Sharing SDK：https://developers.facebook.com/docs/sharing/android
 
 # Facebook シェア機能を使うには以下の操作が必要
 
-## Facebook ダッシュボードよりアプリ ID とクライアントトークンを取得してください
+## Facebook ダッシュボードよりアプリ ID とクライアントトークンを取得
 
-詳しい手順はこちら：https://developers.facebook.com/docs/android/getting-started#quick-start
+取得方法はこちら：https://developers.facebook.com/docs/android/getting-started#quick-start
 
 ※Facebook の開発者用アカウントが必要
 
-## 取得したアプリ ID とクライアントトークンをリソースファイルと AndroidManifest に記載すること
+## 取得したアプリ ID とクライアントトークンをリソースファイルと AndroidManifest に記載
 
 strings.xml
 
