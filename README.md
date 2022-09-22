@@ -1,4 +1,4 @@
-# facebook_sdk_share
+# facebook-sdk-share
 
 Facebook SDK を使用したFacebookシェア機能の実装サンプル
 
